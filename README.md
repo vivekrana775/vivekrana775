@@ -1,66 +1,70 @@
-# Hi there, I'm Vivek! 
+# Hi there, I'm **Vivek** 👋
 
-![Banner image related to web development](https://your-banner-image.com)
+![Profile Views](https://komarev.com/ghpvc/?username=vivekrana775)
 
-**Passionate Full Stack Developer**    building dynamic and responsive web applications. 
+## 🚀 About Me
+I'm a **Full Stack Developer** with a deep passion for crafting dynamic and responsive web applications! My journey began with a Computer Science degree from **Chandigarh Group of Colleges**, where I fell in love with solving complex problems and building scalable solutions.
 
-  **About Me**
+- 🌱 **Currently Exploring**: Advanced concepts in Frontend & Backend development.
+- 💬 **Ask Me About**: Web development, programming, or any tech challenges you're facing!
+- 📫 **Reach Me At**: [vivekchauhan082001@gmail.com](mailto:vivekchauhan082001@gmail.com)
 
-* Background in Computer Science (Chandigarh Group of Colleges)
-*  Continuously learning advanced Front-End and Back-End concepts
-*  Feel free to ask me anything about web development and programming!
-*  Reach out: [vivekchauhan082001@gmail.com](mailto:vivekchauhan082001@gmail.com)
+---
 
-️  **Skills**
+## 🛠️ **Tech Stack**
 
-**Front-End:**    **Expert** |   **Skilled**
+### **Languages**
+- **Proficient**: Python, JavaScript, Java, C++, Ruby
 
-* React ⚛️
-* React Native 
-* Next.js 
-* Bootstrap ️
-* Tailwind CSS 
-* Material UI 
+### **Frameworks & Libraries**
+- **Frontend**: React, Next.js, React Native, Tailwind CSS, Material UI, Bootstrap
+- **Backend**: Node.js, Express
 
-**Back-End:**    **Proficient** |   **Familiar**
+### **Databases**
+- PostgreSQL, MySQL, MongoDB
 
-* Python 
-* JavaScript  ⚡
-* Node.js & Express  
-* Ruby 
+### **Tools & Platforms**
+- Git, VS Code, Postman, Sequelize ORM, Prisma, GraphQL
 
-**Databases:**    **Comfortable**
+---
 
-* PostgreSQL 
-* MySQL 
-* MongoDB 
+## 🔥 **Projects** 
 
-**Tools:**    **Master**
+### [🌟 Personal Portfolio](https://portfolio-vivekrana775.vercel.app/)
+**Tech Stack**: Next.js, Tailwind CSS  
+A clean, responsive personal portfolio showcasing my work and achievements. Dive in to see my projects in action!
 
-* Git 
-* VS Code  
-* Postman 
+### [📝 Blogify_Web](https://github.com/vivekrana775/Blogify_web)
+**Tech Stack**: React, Node.js, Express  
+A full-stack blog application with features like CRUD operations and a powerful nested comment system. Perfect for writers and bloggers alike!
 
-  **Projects**
+### [📄 Resume Builder](https://github.com/vivekrana775/ResumeBuilder)
+**Tech Stack**: React, Firebase  
+A real-time resume builder application designed to create and download sleek resumes in no time.
 
-1. **Personal Portfolio** (Next.js & Tailwind CSS): [Link to your portfolio](https://portfolio-vivekrana775.vercel.app/) - A sleek and responsive website showcasing my skills and projects. (Screenshot)
-2. **Blogify_Web** (React, Node.js & Express): [Link to your project](https://github.com/vivekrana775/Blogify_web) - A full-stack blog application with CRUD operations and nested comments.
-3. **Resume Builder** (React & Firebase): [Link to your project](https://github.com/vivekrana775/ResumeBuilder) - A real-time resume builder for easy and dynamic resume creation.
+---
 
-  **Achievements**
+## 🏆 **Achievements**
 
-* Solved over 1000 DSA problems on LeetCode, ranking in the top 10% 
-*  1st Position at the Coginda Coding Challenge
-*  Achieved a global rank of 62 among 26,000 contestants in the LeetCode Weekly Challenge
+- 💡 Solved **1000+ DSA problems** and ranked in the **top 10%** on LeetCode.
+- 🏅 Secured **1st Position** at the Coginda Coding Challenge.
+- 🌍 Achieved a **global rank of 62** among 26,000 contestants in the **LeetCode Weekly Challenge**.
 
-  **GitHub Stats**
+---
 
-[Your GitHub Stats image](https://github-readme-stats.vercel.app/api?username=vivekrana775&show_icons=true&theme=radical)
+## 📈 **GitHub Stats**
 
-  **Connect with Me**
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekrana775&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrana775&layout=compact&theme=radical)
 
-- [LinkedIn](https://www.linkedin.com/in/vivekchauhan775/)
-- [LeetCode](https://leetcode.com/vi_ek2/)
-- [GitHub](https://github.com/vivekrana775)
+---
 
-Thank you for visiting my profile!
+## 📫 **Let's Connect**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vivekchauhan775/)
+- 🏆 [LeetCode](https://leetcode.com/vi_ek2/)
+- 💻 [GitHub](https://github.com/vivekrana775)
+
+---
+
+Thank you for stopping by! Feel free to reach out if you want to collaborate or chat about tech 🚀😊.
