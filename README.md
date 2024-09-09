@@ -14,7 +14,7 @@ I am a **Full Stack Developer** with a strong passion for building dynamic and r
 ## 🛠️ Technical Skills
 
 ### Languages
-- **Proficient**: Python, JavaScript, Java, C++, Ruby
+- **Proficient**: Python, JavaScript, Java, C++, Ruby, Typescript
 
 ### Frameworks & Libraries
 - **Frontend**: React, Next.js, React Native, Bootstrap, Tailwind CSS, Material UI
@@ -28,12 +28,16 @@ I am a **Full Stack Developer** with a strong passion for building dynamic and r
 - Version Control: Git  
 - IDE: Visual Studio Code  
 - API Testing: Postman  
-- ORMs: Sequelize, Prisma  
+- ORMs: Sequelize, Prisma, Mongoose
 - APIs: GraphQL
 
 ---
 
 ## 🔥 Projects
+
+### [🌟 iFiveGlobal ](https://interact.ifiveglobal.com/)
+**Tech Stack**: Typescript, React.js, Node js, Prisma, Postgresql, MUI
+An Employee Management website for iFive Global with amazing features.
 
 ### [🌟 Personal Portfolio](https://portfolio-vivekrana775.vercel.app/)
 **Tech Stack**: Next.js, Tailwind CSS  
