@@ -1,44 +1,63 @@
-# Hi there, I'm Vivek 👋
+# Hi there, I'm Vivek! 
 
-![Profile Views](https://komarev.com/ghpvc/?username=vivekrana775)
+![Banner image related to web development](https://your-banner-image.com)
 
-## 🚀 About Me
-I am a Full Stack Developer with a passion for creating dynamic and responsive web applications. With a background in Computer Science from Chandigarh Group of Colleges, I have honed my skills in various programming languages and frameworks.
+**Passionate Full Stack Developer**    building dynamic and responsive web applications. 
 
-- 🌱 I’m currently learning advanced concepts in Frontend and Backend.
-- 💬 Ask me about anything related to web development and programming.
-- 📫 How to reach me: [vivekchauhan082001@gmail.com](mailto:vivekchauhan082001@gmail.com)
+  **About Me**
 
-## 🛠️ Skills
+* Background in Computer Science (Chandigarh Group of Colleges)
+*  Continuously learning advanced Front-End and Back-End concepts
+*  Feel free to ask me anything about web development and programming!
+*  Reach out: [vivekchauhan082001@gmail.com](mailto:vivekchauhan082001@gmail.com)
 
-- **Languages**: Python, JavaScript, Java, C++ , Ruby
-- **Frameworks/Libraries**: React, React Native, Next.js, Node.js, Express, Bootstrap, Tailwind CSS, Material UI
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Tools**: VS Code, Git, Postman, Sequelize ORM, Primsa, GraphQL
+️  **Skills**
 
-## 🔥 Projects
+**Front-End:**    **Expert** |   **Skilled**
 
-### [Personal Portfolio](https://portfolio-vivekrana775.vercel.app/)
-A sleek and responsive personal portfolio website built with Next.js and Tailwind CSS.
+* React ⚛️
+* React Native 
+* Next.js 
+* Bootstrap ️
+* Tailwind CSS 
+* Material UI 
 
-### [Blogify_Web](https://github.com/vivekrana775/Blogify_web)
-A full-stack web application with CRUD operations and a nested comments system built using React, Node.js, and Express.
+**Back-End:**    **Proficient** |   **Familiar**
 
-### [Resume Builder](https://github.com/vivekrana775/ResumeBuilder)
-A real-time resume builder application created with React and Firebase.
+* Python 
+* JavaScript  ⚡
+* Node.js & Express  
+* Ruby 
 
-## 🏆 Achievements
+**Databases:**    **Comfortable**
 
-- Solved over 1000+ DSA problems and ranked in the top 10% on LeetCode.
-- 1st Position at the Coginda Coding Challenge.
-- Achieved a global rank of 62 among 26,000 contestants in the LeetCode Weekly Challenge.
+* PostgreSQL 
+* MySQL 
+* MongoDB 
 
-## 📈 GitHub Stats
+**Tools:**    **Master**
 
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekrana775&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrana775&layout=compact&theme=radical)
+* Git 
+* VS Code  
+* Postman 
 
-## 📫 Connect with Me
+  **Projects**
+
+1. **Personal Portfolio** (Next.js & Tailwind CSS): [Link to your portfolio](https://portfolio-vivekrana775.vercel.app/) - A sleek and responsive website showcasing my skills and projects. (Screenshot)
+2. **Blogify_Web** (React, Node.js & Express): [Link to your project](https://github.com/vivekrana775/Blogify_web) - A full-stack blog application with CRUD operations and nested comments.
+3. **Resume Builder** (React & Firebase): [Link to your project](https://github.com/vivekrana775/ResumeBuilder) - A real-time resume builder for easy and dynamic resume creation.
+
+  **Achievements**
+
+* Solved over 1000 DSA problems on LeetCode, ranking in the top 10% 
+*  1st Position at the Coginda Coding Challenge
+*  Achieved a global rank of 62 among 26,000 contestants in the LeetCode Weekly Challenge
+
+  **GitHub Stats**
+
+[Your GitHub Stats image](https://github-readme-stats.vercel.app/api?username=vivekrana775&show_icons=true&theme=radical)
+
+  **Connect with Me**
 
 - [LinkedIn](https://www.linkedin.com/in/vivekchauhan775/)
 - [LeetCode](https://leetcode.com/vi_ek2/)
