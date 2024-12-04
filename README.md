@@ -30,10 +30,15 @@ I am a **Full Stack Developer** with a strong passion for building dynamic and r
 - API Testing: Postman  
 - ORMs: Sequelize, Prisma, Mongoose
 - APIs: GraphQL
+- Cloud Platform: Azure, AWS
 
 ---
 
 ## 🔥 Projects
+
+### [🌟 UI WIKI ](https://uiwiki.co/)
+**Tech Stack**: Typescript, React.js, Node js, Mongoose, Mongo DB, MUI
+A website for designers. Users can copy the components and use them in their Figma Design.
 
 ### [🌟 iFiveGlobal ](https://interact.ifiveglobal.com/)
 **Tech Stack**: Typescript, React.js, Node js, Prisma, Postgresql, MUI
@@ -71,7 +76,7 @@ A real-time resume builder application that enables users to create, edit, and d
 ## 🌐 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/vivekchauhan775/)
-- [LeetCode](https://leetcode.com/vi_ek2/)
+- [LeetCode](https://leetcode.com/vi_ek/)
 - [GitHub](https://github.com/vivekrana775)
 
 ---
