@@ -14,11 +14,11 @@ I am a **Full Stack Developer** with a strong passion for building dynamic and r
 ## 🛠️ Technical Skills
 
 ### Languages
-- **Proficient**: Python, JavaScript, Java, C++, Ruby, Typescript
+- **Proficient**: Golang, Python, JavaScript, Java, C++, Ruby, Typescript
 
 ### Frameworks & Libraries
 - **Frontend**: React, Next.js, React Native, Bootstrap, Tailwind CSS, Material UI
-- **Backend**: Node.js, Express
+- **Backend**: Node.js, Express, Go, Gin, Echo, Fiber
 
 ### Databases
 - **SQL**: PostgreSQL, MySQL  
