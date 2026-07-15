@@ -1,134 +1,108 @@
-<div align="center">
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Vivek Chauhan — Senior Full-Stack Engineer" />
+</p>
 
-# Vivek Chauhan
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=6EA8FE&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Senior+Full-Stack+Engineer;TypeScript+%7C+Node.js+%7C+React+%7C+AWS;Real-time+apps+%7C+Distributed+systems+%7C+System+design;Architecting+cloud-native+products+end+to+end" alt="Typing introduction" />
+  </a>
+</p>
 
 ### Senior Full-Stack Engineer · India 🇮🇳 · Remote
 
-**I design, build, and lead production-grade, cloud-native systems on TypeScript / Node.js / React —** with a strong system-design foundation (HLD/LLD), distributed systems, and AWS.
+I design, build, and lead production-grade, cloud-native systems on the **TypeScript / Node.js / React** stack — with a strong system-design foundation (**HLD/LLD**), distributed systems, and **AWS**. Over **3.5+ years** I've shipped platforms serving **10,000+ monthly active users** and led a **4-engineer team** through architecture, code review, and delivery.
+
+I enjoy owning products end to end — especially **real-time applications** and **AI-assisted tools**. Recent work includes a real-time relationship app with Socket.IO chat & voice notes, an employee-management platform built from scratch, and Claude-powered product features.
+
+**What I bring →** Full-stack ownership + system-design depth + team leadership — turning an idea into a reliable, deployed product.
 
 `🟢 Open to remote senior full-stack roles`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekchauhan775/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vivekrana775)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1000%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/vi_ek/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4C1D95?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-vivekrana775.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vivekchauhan082001@gmail.com)
+<p>
+  <a href="https://portfolio-vivekrana775.vercel.app/">
+    <img src="https://img.shields.io/badge/View_Portfolio-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/vivekchauhan775/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/vi_ek/">
+    <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" alt="LeetCode" />
+  </a>
+  <a href="mailto:vivekchauhan082001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+</p>
 
-</div>
+## Selected work
 
----
+<p align="center">
+  <a href="https://github.com/vivekrana775/ems-backend">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vivekrana775&amp;repo=ems-backend&amp;theme=transparent&amp;hide_border=true&amp;title_color=6EA8FE&amp;text_color=94A3B8&amp;icon_color=A78BFA" alt="Employee Management System backend" />
+  </a>
+  <a href="https://github.com/vivekrana775/ui-wiki-plugin">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vivekrana775&amp;repo=ui-wiki-plugin&amp;theme=transparent&amp;hide_border=true&amp;title_color=6EA8FE&amp;text_color=94A3B8&amp;icon_color=A78BFA" alt="UI Wiki plugin" />
+  </a>
+</p>
 
-## 👋 About
+<p align="center">
+  <a href="https://github.com/vivekrana775/ai-interview-2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vivekrana775&amp;repo=ai-interview-2&amp;theme=transparent&amp;hide_border=true&amp;title_color=6EA8FE&amp;text_color=94A3B8&amp;icon_color=A78BFA" alt="AI interview assistant" />
+  </a>
+  <a href="https://github.com/vivekrana775/Blogify_web">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vivekrana775&amp;repo=Blogify_web&amp;theme=transparent&amp;hide_border=true&amp;title_color=6EA8FE&amp;text_color=94A3B8&amp;icon_color=A78BFA" alt="Blogify full-stack blog" />
+  </a>
+</p>
 
-I'm a Senior Full-Stack Engineer with **3.5+ years** shipping and leading reliable, cloud-native platforms. I like owning a system end to end — from the architecture whiteboard to the AWS deployment — and I've done it as an individual contributor and as a team lead.
+## Languages, tools and skills
 
-- 🏗️ **Architect end to end** — high-throughput microservices, distributed caching, RBAC/auth, and AWS deployments (HLD → LLD → prod).
-- 📈 **Scale with intent** — built platforms serving **10,000+ monthly active users**; lifted API throughput **~40%** via Redis caching and Node.js cluster-mode / event-loop tuning.
-- 👥 **Lead delivery** — led a **4-engineer team** through architecture decisions, code review, and sprint planning.
-- 🌐 **Remote-native** — deliver in async, distributed teams.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+## A little more about my work
 
-## 🛠️ Tech Stack
+- **GoCouples** ([live](https://go-couples.aikazoo.com)) — real-time relationship app built as a TypeScript monorepo: React Native (Redux Toolkit / RTK Query) client, Fastify + Prisma + PostgreSQL backend, Socket.IO chat & voice notes, BullMQ/Redis jobs, FCM push, Cloudflare R2 media, and Claude-powered AI features. Dockerized with GitHub Actions CI/CD.
+- **UI Wiki** ([live](https://uiwiki.co)) — SaaS design platform where designers copy production-ready components into Figma. Next.js + Node.js; Redis caching cut load time **~35%**; CI/CD with **99.8%** deployment success.
+- **Employee Management platform** — architected from scratch for **3,000+ users**: clean MVC, authentication, **RBAC**, document management, clock-in/out, and approval workflows. Shipped on **AWS ECS/ECR** with Docker + CI/CD; lifted API throughput **~40%** via Redis caching and Node.js cluster mode.
+- **AI Interview Assistant** — an LLM-driven tool that conducts and analyzes technical interviews.
+- **Blogify** — full-stack blog with CRUD and a nested comment system (React · Node · Express).
 
-**Core**
+## GitHub stats
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vivekrana775&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=6EA8FE&amp;text_color=94A3B8&amp;icon_color=A78BFA" alt="Vivek's GitHub stats" />
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrana775&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent&amp;title_color=6EA8FE&amp;text_color=94A3B8" alt="Top languages" />
+</p>
 
-**Data & Caching**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-**Also** · GraphQL · gRPC · WebSockets / Socket.IO · System Design (HLD/LLD) · Python · SQL · C++
-
----
-
-## 🚀 Featured Projects
-
-### 🧩 [GoCouples — Real-time Relationship Companion](https://go-couples.aikazoo.com)
-A full-stack, real-time mobile app built as a **TypeScript monorepo**.
-- **React Native** (Redux Toolkit / RTK Query) client · **Fastify + Prisma + PostgreSQL** backend
-- **Socket.IO** chat & voice notes · **BullMQ / Redis** background jobs · **FCM** push · **Cloudflare R2** media
-- Integrated **Claude (Anthropic)** for AI features · Dockerized with GitHub Actions CI/CD
-
-### 🎨 [UI Wiki — SaaS Design Platform](https://uiwiki.co)
-A design-components SaaS where designers copy production-ready components into their Figma work.
-- **Next.js + Node.js** · Redis caching cut load time **~35%** · CI/CD pipeline with **99.8%** deployment success
-
-### 📦 More
-| Project | Stack | Link |
-|---|---|---|
-| Personal Portfolio | Next.js · Tailwind | [Live](https://portfolio-vivekrana775.vercel.app/) |
-| Blogify | React · Node · Express · nested comments | [Repo](https://github.com/vivekrana775/Blogify_web) |
-| Resume Builder | React · Firebase (real-time) | [Repo](https://github.com/vivekrana775/ResumeBuilder) |
-
----
-
-## 📌 Selected Impact
-
-> A few things I've owned recently (system-design highlights):
-
-- **Architected an Employee Management platform from scratch** serving **3,000+ users** — clean MVC, authentication, **RBAC**, document management, clock-in/out, and multi-step approval workflows.
-- **Cut infra friction on AWS** — shipped on **ECS/ECR** with Docker, ALB, Cloudflare, and GitHub Actions CI/CD.
-- **Raised API throughput ~40%** via Redis caching, Node.js cluster mode, and event-loop optimization.
-- **Unified enterprise services** — integrated multiple third-party systems into one platform with secure RBAC and audit logging, serving **10,000+ MAU**.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekrana775&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrana775&layout=compact&langs_count=8&hide_border=true&theme=transparent)
-
-</div>
-
----
-
-## 🏆 Achievements
+## Achievements
 
 - **1000+** problems solved on LeetCode · **~1600** rating (**top ~15%**).
 - **2nd Runner-Up**, Cognida Coding Challenge.
 - **20+** full-stack projects shipped on GitHub.
 
----
+### Let's connect 🤝
 
-## 🎓 Education
+I'm always interested in thoughtful product ideas, full-stack engineering, and practical AI applications — and I'm **open to remote senior full-stack roles**.
 
-**Chandigarh University** — B.Tech, Computer Science Engineering · 2019 – 2023
-
----
-
-<div align="center">
-
-### 🤝 Let's build something
-
-I'm **open to remote senior full-stack roles** and happy to talk system design, distributed systems, or a good side project.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekchauhan775/)
-[![Email](https://img.shields.io/badge/Email-vivekchauhan082001@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vivekchauhan082001@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4C1D95?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-vivekrana775.vercel.app/)
-
-<sub>Thanks for stopping by. 😊</sub>
-
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/vivekchauhan775/">
+    <img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Message Vivek on LinkedIn" />
+  </a>
+  <a href="mailto:vivekchauhan082001@gmail.com">
+    <img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Vivek" />
+  </a>
+</p>
